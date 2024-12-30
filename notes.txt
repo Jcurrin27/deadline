@@ -1,5 +1,0 @@
-- consider AUC-ROC to evaluate model. measures true-positive and false positive rates. i think this was covered in cs50
-- also consider precision, recall, F1-score to evaluate model.
-- choosing classification model:
-	1. start with random forest - robust to overfitting. bit of a black box but that's not an issue here. tuning hyperparameters is important.
-	2. depending on random forest results, consider neural network. possibly best in terms of performance but requires large resources, large datasets, and vulnerable to overfitting if not regularized properly.
