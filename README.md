@@ -6,6 +6,9 @@ The data used for the model was artificially created by me. I used data types th
 
     Design
 The program is designed to run against records of all students who have outstanding balances for an upcoming payment deadline, and have at least one year of payment/enrollment history. The program would require historic payment data to be gathered for each student, and using this historic data, the program can predict whether they will be dropped for the upcoming deadline using a k-nearest neighbor classification model.  
-    
+
+    Evaluating Model
+The model is being evaluated by identifying the 'true positive rate' and the 'true negative rate', sometimes referred to as model sensitivity (true positive) and specificity (true negative).
+
     Text Files
 I have saved the training and test datasets as text files in the current directory in case it is helpful in understanding how the program works. 
