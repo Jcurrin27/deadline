@@ -1,0 +1,14 @@
+		HISTORIC_DATA_1
+
+- days to deadline = 30
+- 20,000 records, 600 drops
+- drops have skew to:
+	- 300 to international some flywire in past, large cc payment, higher academic level, no fafsa
+	- 300 to freshman in verification & no payment
+
+		CURRENT_DATA_1
+- days to deadline = 30
+- 13,498 records, 348 drops
+- drops have skew to:
+	- 174 to international some flywire in past, large cc payment, higher academic level, no fafsa
+	- 175 to freshman in verification & no payment
